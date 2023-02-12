@@ -16,7 +16,8 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://www.java.com/es/" target="_blank"> <img src="https://icons.iconarchive.com/icons/alecive/flatwoken/256/Apps-Java-icon.png" alt="java" width="40" height="40"/> </a>
 <a href="https://www.python.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/100px-Python-logo-notext.svg.png" width="40" height="40"/> </a>
-<a href="https://www.r-project.org/" target="_blank"> <img src="https://www.r-project.org/Rlogo.png" width="40" height="35"/> </a>
+<a href="https://www.r-project.org/" target="_blank"> <img src="https://www.r-project.org/Rlogo.png" width="40" height="40"/> </a>
+<a href="https://www.rust-lang.org/" target="_blank"> <img src="https://www.rust-lang.org/static/images/rust-logo-blk.svg" width="40" height="40"/> </a>
 <br />
   <br />
   <h3 align="center"> Tools</h3>
