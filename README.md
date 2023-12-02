@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pedro Fernandez
 - 👀 I’m interested in Technology and Innovation, Synthetic Biology, Artificial Intelligence, Brain-machine Interfaces, Biomedicine,...
-- 🌱 I currently work at a research centre and I'm independently learning Rust.
+- 🌱 I currently work at a research centre and I'm independently learning Python.
 - 💞️ Looking forward to collaborate in developing game-changing biotech tools.
 
 - 🗣 ES | EN | IT
