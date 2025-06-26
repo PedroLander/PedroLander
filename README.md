@@ -1,7 +1,11 @@
 - 👋 Hi, I’m @Pedro Fernandez
-- 👀 I’m interested in Technology and Innovation, Synthetic Biology, Artificial Intelligence, Brain-machine Interfaces, Biomedicine,...
-- 🌱 I currently work at a research centre and I'm independently learning Python.
-- 💞️ Looking forward to collaborate in developing game-changing biotech tools.
+- 🔍 Driven by curiosity, I thrive on exploring the intersections of technology, science, and society.
+- 🌱 My journey spans research, biotech, health sciences, electronics, economics, and more—each new field deepening my understanding of complex systems.
+- 💡 I enjoy uncovering hidden patterns in data and transforming insights into actionable strategies.
+- 🤝 Comfortable collaborating with developers, scientists, executives, and policymakers, I value clear communication and empathy in every project.
+- 🌐 Always learning, always connecting the dots.
+- 🏛️ Civil servant at the Spanish National Research Council and the Public Ministry of Agriculture, with experience in ecology, agriculture, animal health, and biosecurity.
+- 🛡️ Knowledgeable in cybersecurity, cyberbiosecurity, machine learning, AI agent design, and several programming languages.
 
 - 🗣 ES | EN | IT
 
