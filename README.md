@@ -48,6 +48,7 @@
 <a href="https://github.com/" target="_blank"> <img src="https://pngimg.com/uploads/github/github_PNG80.png" alt="github" width="40" height="40"/> </a>
 <a href="https://www.eclipse.org/" target="_blank"> <img src="https://icons.iconarchive.com/icons/dakirby309/simply-styled/256/Eclipse-icon.png" alt="eclipse" width="40" height="40"/> </a>
 <a href="" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/245px-Jupyter_logo.svg.png" alt="jupyter" width="40" height="40"/> </a>
+<a href="" target="_blank"> <img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="vscode" width="40" height="40"/> </a>
 
 <br />
 
