@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/your-banner-image.png" alt="Pedro Fernandez" width="80%"/>
-</div>
 
 <h1 align="center">Pedro Fernandez</h1>
 
